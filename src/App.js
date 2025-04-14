@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React eazworld e-commerce app
+          Learn React eazworld e-commerce app by faisal 
         </a>
       </header>
     </div>
